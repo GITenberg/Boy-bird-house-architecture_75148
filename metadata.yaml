@@ -1,0 +1,34 @@
+_repo: Boy-bird-house-architecture_75148
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baxter, Leon H. (Leon Harold)
+    alias: Baxter, Leon Harold
+    birthdate: 1886
+    deathdate: 1972
+    gutenberg_agent_id: '42787'
+    url: http://www.gutenberg.org/2009/agents/42787
+description: ''
+gutenberg_issued: '2025-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75148'
+  lccn: '20007092'
+language: en
+pgterms:marc904: https://archive.org/details/handbookbirdseast00chaprich/page/n7/mode/2up
+pgterms:marc905: 20210604162955baxter
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aMilwaukee :$bThe Bruce Publishing Co., $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birdhouses'
+- !lcc 'QL'
+- GITenberg
+title: Boy bird house architecture
+url: http://www.gutenberg.org/ebooks/75148
