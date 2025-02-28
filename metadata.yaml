@@ -1,5 +1,8 @@
 _repo: Boy-bird-house-architecture_75148
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75148-h/images/cover.jpg
 creator:
   author:
     agent_name: Baxter, Leon H. (Leon Harold)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '42787'
     url: http://www.gutenberg.org/2009/agents/42787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75148#Boy-bird-house-architecture
 gutenberg_issued: '2025-01-19'
 gutenberg_type: Text
 identifiers:
